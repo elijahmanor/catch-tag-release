@@ -3,7 +3,7 @@
   "version": "19.4.6",
   "description": "",
   "main": "index.js",
-  "private": true,
+  "private": false,
   "scripts": {
     "commit": "git-cz"
   },
