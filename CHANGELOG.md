@@ -1,5 +1,9 @@
 ## 19.x
 
+### 19.4.7
+
+* Making private false in package.json
+
 ### 19.4.6
 
 * Making project private for now..
