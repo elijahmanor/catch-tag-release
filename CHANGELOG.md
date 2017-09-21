@@ -1,5 +1,9 @@
 ## 19.x
 
+### 19.5.1
+
+* Bumped web-board-slice to 14.16.0, web-card-slice to 8.14.0, web-common-ui to 12.6.0: Blah blah blah
+
 ### 19.5.0
 
 * Bumped web-board-slice to 14.15.0, web-card-slice to 8.12.0: Making a change
