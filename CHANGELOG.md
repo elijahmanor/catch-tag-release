@@ -1,5 +1,9 @@
 ## 19.x
 
+### 19.5.0
+
+* Bumped web-board-slice to 14.15.0, web-card-slice to 8.12.0: Making a change
+
 ### 19.4.9
 
 * Totatlly not this one either
