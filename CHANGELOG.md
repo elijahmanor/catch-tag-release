@@ -1,5 +1,10 @@
 ## 19.x
 
+### 19.5.3
+
+* 19.5.3-fancier.0
+* something fancier
+
 ### 19.5.2
 
 * 19.5.2-fancy.0
