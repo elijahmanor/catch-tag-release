@@ -1,5 +1,10 @@
 ## 19.x
 
+### 19.5.2
+
+* 19.5.2-fancy.0
+* something fancy
+
 ### 19.5.1
 
 * Bumped web-board-slice to 14.16.0, web-card-slice to 8.14.0, web-common-ui to 12.6.0: Blah blah blah
