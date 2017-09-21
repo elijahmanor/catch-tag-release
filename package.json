@@ -1,6 +1,6 @@
 {
   "name": "catch-tag-release",
-  "version": "19.5.2",
+  "version": "19.5.3-fancier.0",
   "description": "",
   "main": "index.js",
   "private": false,
