@@ -1,5 +1,10 @@
 ## 19.x
 
+### 19.7.1
+
+* quick change
+* Bumped web-board-slice to 14.21.0, web-card-slice to 9.2.0: because i'm testing robert's stuff
+
 ### 19.7.0
 
 * do all the things work 2
