@@ -1,5 +1,10 @@
 ## 19.x
 
+### 19.8.0
+
+* pretty
+* yo
+
 ### 19.7.1
 
 * quick change
