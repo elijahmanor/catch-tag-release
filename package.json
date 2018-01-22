@@ -20,7 +20,7 @@
     "@lk/web-analytics-slice": "6.0.0",
     "@lk/web-board-slice": "14.21.0",
     "@lk/web-card-slice": "9.2.0",
-    "@lk/web-common-ui": "12.6.0",
+    "@lk/web-common-ui": "12.10.0",
     "@lk/web-core-analytics": "1.3.0",
     "@lk/web-core-appContext": "1.0.0",
     "@lk/web-core-board": "4.3.0",
