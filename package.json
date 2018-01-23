@@ -10,7 +10,7 @@
   "devDependencies": {
     "@lk/web-analytics-slice": "6.0.0",
     "@lk/web-board-slice": "^19.3.0",
-    "@lk/web-card-slice": "^12.8.0",
+    "@lk/web-card-slice": "^9.2.0",
     "@lk/web-common-ui": "^18.0.3",
     "@lk/web-core-board": "^5.2.0",
     "@lk/web-core-card": "^9.14.0",
