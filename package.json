@@ -1,6 +1,6 @@
 {
   "name": "catch-tag-release",
-  "version": "19.16.1",
+  "version": "19.16.2-fixed-bad-stuff.0",
   "description": "",
   "main": "index.js",
   "private": false,
