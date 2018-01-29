@@ -1192,3 +1192,4 @@ big bad conflict
 some other work
 new blah
 another blah
+hi
