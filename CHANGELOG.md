@@ -1,5 +1,10 @@
 ## 19.x
 
+### 19.21.0
+
+* Bumped web-board-slice to 14.11.0, web-card-slice to 8.9.1, web-common-ui to 12.0.3, web-home-slice to 5.2.0: new change
+* new change
+
 ### 19.20.0
 
 * change to develop
