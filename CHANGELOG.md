@@ -1,5 +1,10 @@
 ## 19.x
 
+### 19.22.0
+
+* Made changes yo
+* Bumped web-card-slice to 9.2.0, web-common-ui to 12.10.0: blah
+
 ### 19.21.2
 
 * another package change
