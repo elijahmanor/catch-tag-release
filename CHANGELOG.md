@@ -1273,3 +1273,6 @@ bump
 another bump
 test
 hmm
+making some change for pre-release
+FOOL
+I just can't get this right
