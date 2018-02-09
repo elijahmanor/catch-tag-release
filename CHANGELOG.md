@@ -1,5 +1,10 @@
 ## 19.x
 
+### 19.32.0
+
+* Bumped web-card-slice to 9.0.0, web-common-ui to 12.9.1: no conflict
+* no conflict
+
 ### 19.31.0
 
 * did it work
