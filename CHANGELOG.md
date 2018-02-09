@@ -1,5 +1,9 @@
 ## 19.x
 
+### 19.34.1
+
+* promote conflict
+
 ### 19.34.0
 
 * no conflict promote
