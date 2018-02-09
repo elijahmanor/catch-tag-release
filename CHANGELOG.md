@@ -1,5 +1,10 @@
 ## 19.x
 
+### 19.33.2
+
+* Bumped web-board-slice to 14.21.0, web-common-ui to 12.10.0: j conflict
+* j conflict
+
 ### 19.33.1
 
 * Bumped web-board-slice to 14.18.0, web-card-slice to 8.14.0: some work
