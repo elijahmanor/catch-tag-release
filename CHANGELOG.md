@@ -1,5 +1,10 @@
 ## 20.x
 
+### 20.4.1
+
+* Bumped web-board-slice to 14.19.1, web-common-ui to 12.9.0: a no conflict
+* a no conflict
+
 ### 20.4.0
 
 * Bumped web-board-slice to 14.20.0, web-card-slice to 9.1.0: 3 3 3
