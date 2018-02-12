@@ -1,6 +1,6 @@
 {
   "name": "catch-tag-release",
-  "version": "20.4.2",
+  "version": "20.4.3-a-conflict.0",
   "description": "",
   "main": "index.js",
   "private": false,
