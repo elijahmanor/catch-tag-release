@@ -1,5 +1,9 @@
 ## 20.x
 
+### 20.4.2
+
+* a
+
 ### 20.4.1
 
 * Bumped web-board-slice to 14.19.1, web-common-ui to 12.9.0: a no conflict
