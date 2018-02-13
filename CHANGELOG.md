@@ -1,5 +1,10 @@
 ## 20.x
 
+### 20.6.0
+
+* xxx
+* remove package-lock.json
+
 ### 20.5.0
 
 * 4 4 4
