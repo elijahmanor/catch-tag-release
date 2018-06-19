@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "private": false,
-  "scripts": {},
+  "scripts": {
+    "start": "node ./index.js"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
