@@ -1,10 +1,12 @@
 {
   "name": "catch-tag-release",
-  "version": "23.0.3",
+  "version": "23.1.0",
   "description": "",
   "main": "index.js",
   "private": false,
-  "scripts": {},
+  "scripts": {
+    "start": "node ./index.js"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -32,6 +34,7 @@
     "babel-preset-react": "^6.11.1",
     "babel-preset-react-hmre": "^1.1.1",
     "babel-preset-stage-0": "^6.5.0",
-    "babel-register": "^6.14.0"
+    "babel-register": "^6.14.0",
+    "tag-release": "file:../tag-release"
   }
 }
