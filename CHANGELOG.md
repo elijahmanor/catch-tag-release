@@ -1,5 +1,9 @@
 ## 23.x
 
+### 23.0.4
+
+* Added tag-release as a library
+
 ### 23.0.3
 
 * feature a
