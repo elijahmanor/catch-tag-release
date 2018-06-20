@@ -1,5 +1,10 @@
 ## 25.x
 
+### 25.0.23
+
+* another-branch change
+* another-branch
+
 ### 25.0.22
 
 * feature-branch change
