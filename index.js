@@ -1,7 +1,7 @@
-const tagRelease = require( "tag-release" );
+const tagRelease = require("tag-release");
 
-tagRelease.run({release:'patch', cwd: "." }).then(result=>{
-	console.log( "We did it:", result);
+tagRelease.run({release:"minor", cwd: './' }).then(result=>{
+	console.log( "You did it:", result, "Yay");
 }).catch(error=>{
 	console.log("BOOM:", error );
 });
