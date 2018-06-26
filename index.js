@@ -1,4 +1,4 @@
-const tagRelease = require("tag-release");
+const tagRelease = require( "tag-release");
 
 tagRelease.run( {
 	release: "patch",
