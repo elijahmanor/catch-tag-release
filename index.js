@@ -1,4 +1,4 @@
-const tagRelease = require( "tag-release" );
+const tagRelease = require("tag-release");
 
 tagRelease.run( {
 	release: "patch",
@@ -8,4 +8,3 @@ tagRelease.run( {
 } ).catch( error => {
 	console.log( "BOOM:", error );
 } );
-
