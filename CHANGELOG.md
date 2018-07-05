@@ -1,5 +1,9 @@
 ## 25.x
 
+### 25.2.6
+
+* a change
+
 ### 25.2.5
 
 * i need a release
