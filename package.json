@@ -1,6 +1,6 @@
 {
   "name": "catch-tag-release",
-  "version": "25.2.6",
+  "version": "25.2.7-pre-tag.0",
   "description": "",
   "main": "index.js",
   "private": false,
