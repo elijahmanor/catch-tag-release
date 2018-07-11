@@ -1849,3 +1849,4 @@ tag 2
 tag 3
 feature my branch
 feature my branch .1
+testing tags
