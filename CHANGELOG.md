@@ -1,5 +1,9 @@
 ## 26.x
 
+### 26.1.0
+
+* Add package-lock to gitignore
+
 ### 26.0.8
 
 
