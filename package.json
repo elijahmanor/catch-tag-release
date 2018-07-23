@@ -1,6 +1,6 @@
 {
   "name": "catch-tag-release",
-  "version": "26.1.2",
+  "version": "26.1.3-good-branch.0",
   "description": "",
   "main": "index.js",
   "private": false,
