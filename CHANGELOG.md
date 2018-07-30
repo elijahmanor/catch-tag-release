@@ -1,5 +1,10 @@
 ## 26.x
 
+### 26.1.12
+
+* Bumped web-card-slice to 9.2.0, web-common-ui to 12.10.0: Feature change
+* feature-test
+
 ### 26.1.11
 
 * feature-branch change
