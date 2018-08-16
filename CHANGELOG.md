@@ -1,5 +1,9 @@
 ## 26.x
 
+### 26.2.0
+
+* testing
+
 ### 26.1.14
 
 * Bumped web-card-slice to 8.13.0, web-common-ui to 12.8.0: No Develop Testing
