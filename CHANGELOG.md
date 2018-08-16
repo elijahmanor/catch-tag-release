@@ -1,5 +1,9 @@
 ## 27.x
 
+### 27.1.0
+
+* doom
+
 ### 27.0.1
 
 * conflicts are amazing
