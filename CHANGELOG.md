@@ -1,5 +1,9 @@
 ## 27.x
 
+### 27.2.0
+
+* conflict before weekend
+
 ### 27.1.3
 
 * conflict
