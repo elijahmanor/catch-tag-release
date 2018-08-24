@@ -1,6 +1,6 @@
 {
   "name": "catch-tag-release",
-  "version": "27.1.2",
+  "version": "27.2.0-conflict-before-weekend.0",
   "description": "",
   "main": "index.js",
   "private": false,
