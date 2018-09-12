@@ -1,5 +1,10 @@
 ## 27.x
 
+### 27.2.8
+
+* Bumped web-card-slice to 9.0.0: blah
+* change
+
 ### 27.2.7
 
 * hottness
