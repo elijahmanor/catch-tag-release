@@ -1,5 +1,9 @@
 ## 27.x
 
+### 27.2.7
+
+* hottness
+
 ### 27.2.6
 
 * new feature
