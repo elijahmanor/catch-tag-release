@@ -1,5 +1,10 @@
 ## 27.x
 
+### 27.2.5
+
+* Bumped web-card-slice to 9.2.0: blah
+* new
+
 ### 27.2.4
 
 * some work
