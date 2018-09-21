@@ -1,5 +1,9 @@
 ## 27.x
 
+### 27.2.11
+
+* Bumped web-board-slice to 14.19.1: Not so crazy
+
 ### 27.2.10
 
 * quick bathroom break
