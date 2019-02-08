@@ -1,5 +1,9 @@
 ## 27.x
 
+### 27.5.0
+
+* Added fake localization file
+
 ### 27.4.0
 
 * change
