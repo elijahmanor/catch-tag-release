@@ -1,2 +1,3 @@
 first.localization.key: some localization string
 another.key: key
+third.key: key
