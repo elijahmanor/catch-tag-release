@@ -1,3 +1,9 @@
+## 48.x
+
+### 48.0.0
+
+* bloo
+
 ## 47.x
 
 ### 47.0.0
@@ -2290,3 +2296,4 @@ bump
 tmp
 bumpage
 blee
+blooo
