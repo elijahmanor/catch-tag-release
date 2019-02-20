@@ -1,5 +1,9 @@
 ## 60.x
 
+### 60.2.0
+
+* updated localization.txt
+
 ### 60.1.0
 
 * bla
