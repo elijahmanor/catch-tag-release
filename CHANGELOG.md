@@ -1,5 +1,9 @@
 ## 60.x
 
+### 60.1.0
+
+* bla
+
 ### 60.0.0
 
 * elijah
@@ -2381,3 +2385,4 @@ stuff
 bark
 woof
 elijah
+bla
