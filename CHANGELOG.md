@@ -1,5 +1,9 @@
 ## 60.x
 
+### 60.3.0
+
+* added fr-localization.txt
+
 ### 60.2.0
 
 * updated localization.txt
