@@ -1,3 +1,9 @@
+## 60.x
+
+### 60.0.0
+
+* elijah
+
 ## 59.x
 
 ### 59.0.0
@@ -2374,3 +2380,4 @@ sigh
 stuff
 bark
 woof
+elijah
