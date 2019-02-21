@@ -1,5 +1,9 @@
 ## 61.x
 
+### 61.1.0
+
+* small
+
 ### 61.0.0
 
 * made extensions .yaml
