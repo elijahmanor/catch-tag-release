@@ -1,5 +1,9 @@
 ## 61.x
 
+### 61.4.0
+
+* Updated .yaml translation
+
 ### 61.3.0
 
 * tmp
