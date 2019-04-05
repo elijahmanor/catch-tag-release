@@ -2519,3 +2519,4 @@ test
 one
 bump
 another
+conflict
