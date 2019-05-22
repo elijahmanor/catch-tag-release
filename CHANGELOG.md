@@ -2524,3 +2524,7 @@ one
 bump
 another
 conflict
+pre
+pre 2
+pre 3
+pre 4
