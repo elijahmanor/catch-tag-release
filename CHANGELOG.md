@@ -1,5 +1,9 @@
 ## 62.x
 
+### 62.0.3
+
+* added fake locale directory
+
 ### 62.0.2
 
 * nas
