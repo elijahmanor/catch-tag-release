@@ -1,5 +1,9 @@
 ## 62.x
 
+### 62.0.4
+
+* More locale things
+
 ### 62.0.3
 
 * added fake locale directory
