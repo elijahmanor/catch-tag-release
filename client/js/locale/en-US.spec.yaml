@@ -1,0 +1,5 @@
+describe( "some test", () => {
+  it( "shouldn't be here..", () => {
+    false.should.be.true();
+  } );
+} );
