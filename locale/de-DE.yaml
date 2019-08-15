@@ -1,3 +1,4 @@
-catch.tag.release.key.one: first
-catch.tag.release.key.four: fourth
-catch.tag.release.key.five: fifth
+de-DE:
+  catch.tag.release.key.one: first
+  catch.tag.release.key.four: fourth
+  catch.tag.release.key.five: fifth
