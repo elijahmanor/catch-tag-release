@@ -1,5 +1,9 @@
 ## 62.x
 
+### 62.0.10
+
+* Added test tag-release options
+
 ### 62.0.9
 
 * one more..
