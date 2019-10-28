@@ -7,6 +7,10 @@
   "scripts": {
     "start": "node ./index.js"
   },
+  "tag-release": {
+    "prepr": "node ./preTest.js",
+    "postpr": "node ./postTest.js"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
