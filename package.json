@@ -8,8 +8,8 @@
     "start": "node ./index.js"
   },
   "tag-release": {
-    "prepr": "node ./preTest.js",
-    "postpr": "node ./postTest.js"
+    "prestart": "node ./preStart.js",
+    "poststart": "node ./postStart.js"
   },
   "author": "",
   "license": "ISC",
