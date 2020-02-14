@@ -24,64 +24,6 @@
 
 * This is a change
 
-### 62.0.10
-
-* Added test tag-release options
-
-### 62.0.9
-
-* one more..
-
-### 62.0.8
-
-* translations
-
-### 62.0.7
-
-* more structure
-
-### 62.0.6
-
-* Need another spec file
-
-### 62.0.5
-
-* more data
-
-### 62.0.4
-
-* More locale things
-
-### 62.0.3
-
-* added fake locale directory
-
-### 62.0.2
-
-* nas
-
-### 62.0.1
-
-* energy
-
-### 62.0.0
-
-* bump
-
-## 61.x
-
-### 61.24.4
-
-* more
-* filter
-* ree
-* splice
-* tmp
-* 3
-* 2
-* add
-* diff
-
 ### 61.24.3
 
 * again
@@ -217,28 +159,6 @@
 ### 60.2.0
 
 * updated localization.txt
-
-### 60.1.0
-
-* bla
-
-### 60.0.0
-
-* elijah
-
-## 59.x
-
-### 59.0.0
-
-* woof
-
-## 58.x
-
-### 58.0.0
-
-* bark
-
-## 57.x
 
 ### 57.0.0
 
@@ -425,31 +345,6 @@
 ## 27.x
 
 ### 27.5.0
-
-* Added fake localization file
-
-### 27.4.0
-
-* change
-
-### 27.3.1
-
-* What robert was saying
-
-### 27.3.0
-
-* bb
-* b
-
-### 27.2.19
-
-* a
-
-### 27.2.18
-
-* aa
-
-### 27.2.17
 
 * b
 * a
@@ -2635,20 +2530,3 @@ pre 4
 tmp
 one more
 more 2
-8
-time again
-again
-diff
-bump
-bump2
-3
-tmp
-splice
-reee
-filter this baby
-more
-bump
-energy
-nas
-test
-goodbye
