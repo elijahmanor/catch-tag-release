@@ -8,8 +8,20 @@
     "start": "node ./index.js"
   },
   "tag-release": {
-    "prestart": "node ./preStart.js",
-    "poststart": "node ./postStart.js"
+    "prestart": "echo 'RUN: prestart...' && sleep 5 && echo 'END: prestart.'",
+    "poststart": "echo 'RUN: poststart...' && sleep 5 && echo 'END: poststart.'",
+    "predev": "echo 'RUN: predev...' && sleep 5 && echo 'END: predev.'",
+    "postdev": "echo 'RUN: postdev...' && sleep 5 && echo 'END: postdev.'",
+    "prepr": "echo 'RUN: prepr...' && sleep 5 && echo 'END: prepr.'",
+    "postpr": "echo 'RUN: postpr...' && sleep 5 && echo 'END: postpr.'",
+    "preprerelease": "echo 'RUN: preprerelease...' && sleep 5 && echo 'END: preprerelease.'",
+    "postprerelease": "echo 'RUN: postprerelease...' && sleep 5 && echo 'END: postprerelease.'",
+    "prepromote": "echo 'RUN: preprepromote...' && sleep 5 && echo 'END: prepromote.'",
+    "postpromote": "echo 'RUN: postprepromote...' && sleep 5 && echo 'END: postpromote.'",
+    "preqa": "echo 'RUN: prepreqa...' && sleep 5 && echo 'END: preqa.'",
+    "postqa": "echo 'RUN: postpreqa...' && sleep 5 && echo 'END: postpq.'",
+    "prereset": "echo 'RUN: preprereset...' && sleep 5 && echo 'END: prereset.'",
+    "postreset": "echo 'RUN: postprereset...' && sleep 5 && echo 'END: postreset.'"
   },
   "author": "",
   "license": "ISC",
