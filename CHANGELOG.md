@@ -1,5 +1,20 @@
 ## 62.x
 
+### 62.5.0
+
+* 62.4.1
+* continue commit
+* appended to changelog
+* Added some additional scripts
+* 62.4.0
+* lots of changes to changelog
+* 62.3.0
+* Make changes to changelog that should cause a conflict
+* 62.2.1
+* hi
+* 62.2.0
+* Add a bunch of pre and post hooks
+
 ### 62.4.1
 
 * continue commit
