@@ -2543,3 +2543,4 @@ more 2
 this is a test
 continue
 continue-2b
+continue-3conflict
