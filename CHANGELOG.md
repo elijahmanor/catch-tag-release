@@ -1,5 +1,9 @@
 ## 62.x
 
+### 62.9.0
+
+* Removed package-lock.json from .gitignore and installed
+
 ### 62.8.10
 
 * commit more things for a conflict
