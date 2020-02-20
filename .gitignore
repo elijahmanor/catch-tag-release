@@ -34,7 +34,5 @@ config.json
 dump.rdb
 .gulp-lint-cache
 .gulp-format-cache
-package-lock.json
 /themes
 /packages
-package-lock.json
