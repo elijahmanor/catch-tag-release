@@ -2680,3 +2680,6 @@ continue-3conflictx
 continue-3
 continue-3conflict-more-for-pr
 lock
+new change
+this is something else
+this is something
