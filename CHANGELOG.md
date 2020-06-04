@@ -1,5 +1,10 @@
 ## 62.x
 
+### 62.12.0
+
+* Add a log
+* Add a log
+
 ### 62.11.0
 
 * Add a manifest file
