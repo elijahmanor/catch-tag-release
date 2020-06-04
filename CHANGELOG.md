@@ -1,5 +1,17 @@
 ## 62.x
 
+### 62.10.0
+
+* 62.9.2
+* robert change
+* 62.9.1
+* Bumped web-board-slice to 14.21.0, web-card-slice to 9.2.0, web-common-ui to 12.10.0: lock
+* 62.9.0
+* Removed package-lock.json from .gitignore and installed
+* lock
+* 62.8.10
+* commit more things for a conflict
+
 ### 62.9.2
 
 * robert change
