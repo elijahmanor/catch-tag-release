@@ -3,7 +3,7 @@
 log/
 *.swp
 *.swo
-c9o7ve4ra4g5e/
+coverage/
 plato/
 .grapplehound.json
 *.suo
