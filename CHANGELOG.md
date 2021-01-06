@@ -1,5 +1,9 @@
 ## 62.x
 
+### 62.17.0
+
+* Bumped web-board-slice to 14.21.0, web-card-slice to 9.2.0: new stuff
+
 ### 62.16.0
 
 * ryan change
