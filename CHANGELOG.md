@@ -1,5 +1,10 @@
 ## 64.x
 
+### 64.1.0
+
+* Bumped core-enums to 2.0.0: sdfg
+* look at me again
+
 ### 64.0.0
 
 * removed some stuff
