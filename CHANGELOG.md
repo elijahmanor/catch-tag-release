@@ -1,5 +1,9 @@
 ## 65.x
 
+### 65.0.1
+
+* add fake scope
+
 ### 65.0.0
 
 * look at me again
