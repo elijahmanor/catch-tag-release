@@ -1,5 +1,9 @@
 ## 66.x
 
+### 66.0.2
+
+* look at me
+
 ### 66.0.1
 
 * remove fake scope
