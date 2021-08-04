@@ -1,5 +1,9 @@
 ## 65.x
 
+### 65.0.1
+
+* Added tag-release to config
+
 ### 65.0.0
 
 * look at me again
