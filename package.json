@@ -28,7 +28,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@banditsoftware/core-enums": "2.0.0",
+    "@banditsoftware/core-enums": "1.19.0",
     "babel-polyfill": "^6.13.0",
     "babel-preset-react": "^6.11.1",
     "react-addons-test-utils": "^15.4.0",
