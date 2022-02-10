@@ -1,6 +1,6 @@
 {
   "name": "catch-tag-release",
-  "version": "66.2.0",
+  "version": "66.2.1-bump.0",
   "description": "",
   "main": "index.js",
   "private": false,
