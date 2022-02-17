@@ -2,6 +2,10 @@
 
 ### 66.3.0
 
+### 66.6.0
+
+* test default 3
+
 ### 66.5.0
 
 * test default 2
