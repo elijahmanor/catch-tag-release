@@ -1,6 +1,6 @@
 {
   "name": "catch-tag-release",
-  "version": "66.6.3-ffsefs.1",
+  "version": "66.6.3",
   "description": "",
   "main": "index.js",
   "private": false,
