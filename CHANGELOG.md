@@ -2,6 +2,13 @@
 
 ### 66.3.0
 
+### 66.7.0
+
+* 66.7.0-whatever.1
+* Another change
+* 66.7.0-whatever.0
+* Made change
+
 ### 66.6.3
 
 * 66.6.3-ffsefs.1
