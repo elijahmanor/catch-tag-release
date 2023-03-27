@@ -1,3 +1,4 @@
+// Adding comment
 const tagRelease = require( "tag-release");
 
 tagRelease.run( {
