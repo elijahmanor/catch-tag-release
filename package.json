@@ -33,7 +33,7 @@
     "babel-preset-react": "^6.11.1",
     "react-addons-test-utils": "^15.4.0",
     "react-intl": "^2.1.5",
-    "webpack": "^3.5.5"
+    "webpack": "^5.94.0"
   },
   "dependencies": {
     "babel-loader": "^7.1.2",
